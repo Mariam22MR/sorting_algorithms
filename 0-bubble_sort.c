@@ -2,7 +2,6 @@
 
 /**
  * bubble_sort - function that sort array of ints using bubble sort algorithm
- *
  * @array: array of ints
  * @size: size of array
  *
